@@ -1,3 +1,12 @@
 * {
+    /* Reset Do CSS */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+    background-image: url(./imagens/bg-mobel.png);
+    background-size: cover;
 }
